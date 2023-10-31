@@ -22,7 +22,7 @@ while ($numero <= 100) {
 }
 echo '<br><hr><br>';
 
-for ($numero = 320; $numero >= 160; $numero -= 20) {
+for ($numero = 320; $numero >= 150; $numero -= 20) {
     echo $numero . " ";
 }
 ?>
